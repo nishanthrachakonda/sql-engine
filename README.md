@@ -1,6 +1,6 @@
 # Sql Engine
 
-Have a look at the sql commands that are currently supported by the engine [here](https://github.com/NishanthRachakonda/sql-engine/docs/Assignment-1.pdf). The engine tries to replicate a simple database engine. The engine is heavily being improved inrespect to api, language and optimization. Please feel free to update the project.
+Have a look at the sql commands that are currently supported by the engine [here](https://github.com/NishanthRachakonda/sql-engine/blob/master/docs/Assignment-1.pdf). The engine tries to replicate a simple database engine. The engine is heavily being improved inrespect to api, language and optimization. Please feel free to update the project.
 
 ## Installation
 
